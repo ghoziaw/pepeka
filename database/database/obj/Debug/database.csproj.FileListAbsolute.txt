@@ -1,0 +1,17 @@
+C:\Users\Ghozi AW\source\repos\database\database\obj\Debug\database.csprojAssemblyReference.cache
+C:\Users\Ghozi AW\source\repos\database\database\obj\Debug\database.Properties.Resources.resources
+C:\Users\Ghozi AW\source\repos\database\database\obj\Debug\database.csproj.GenerateResource.cache
+C:\Users\Ghozi AW\source\repos\database\database\obj\Debug\database.csproj.CoreCompileInputs.cache
+C:\Users\Ghozi AW\source\repos\database\database\bin\Debug\database.exe.config
+C:\Users\Ghozi AW\source\repos\database\database\bin\Debug\database.exe
+C:\Users\Ghozi AW\source\repos\database\database\bin\Debug\database.pdb
+C:\Users\Ghozi AW\source\repos\database\database\obj\Debug\database.exe
+C:\Users\Ghozi AW\source\repos\database\database\obj\Debug\database.pdb
+C:\Users\Ghozi AW\source\repos\database\database\bin\Debug\MySql.Data.dll
+C:\Users\Ghozi AW\source\repos\database\database\bin\Debug\Google.Protobuf.dll
+C:\Users\Ghozi AW\source\repos\database\database\bin\Debug\MySql.Data.xml
+C:\Users\Ghozi AW\source\repos\database\database\obj\Debug\database.csproj.CopyComplete
+C:\Users\Ghozi AW\source\repos\database\database\bin\Debug\MySql.Data.EntityFramework.dll
+C:\Users\Ghozi AW\source\repos\database\database\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\Ghozi AW\source\repos\database\database\obj\Debug\database.Form2.resources
+C:\Users\Ghozi AW\source\repos\database\database\obj\Debug\database.LoginRegis.resources
